@@ -1,11 +1,16 @@
+background(24, 247, 210);
 
+fill(92, 46, 6);
 ellipse(200, 200, 400, 300);  // Makes the face
 
+fill(0, 174, 255);
 ellipse(140, 170, 80, 80);  // Makes the eye
-ellipse(160, 170, 20, 20);
 ellipse(235, 170, 80, 80);  // Makes the other eye
+fill(18, 5, 5);
+ellipse(160, 170, 20, 20);
 ellipse(215, 170, 20, 20);
 
+fill(237, 23, 52);
 line(143,240, 236, 240);   // Makes the mouth
 ellipse(235, 262, 22, 43);
 line(143, 283, 236 ,283);
