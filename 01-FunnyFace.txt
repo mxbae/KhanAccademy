@@ -6,6 +6,6 @@ ellipse(160, 170, 20, 20);
 ellipse(235, 170, 80, 80);  // Makes the other eye
 ellipse(215, 170, 20, 20);
 
-line(143,240, 236, 240);
+line(143,240, 236, 240);   // Makes the mouth
 ellipse(235, 262, 22, 43);
 line(143, 283, 236 ,283);
